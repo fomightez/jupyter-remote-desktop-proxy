@@ -1,8 +1,15 @@
 channels:
   - conda-forge
+  - chrodinger
 dependencies:
   - jupyter-server-proxy>=1.4
   - pip
   - websockify
+  - pymol>=2.3
+  - biopython
+  - csb
+  - libglu
+  - glew
+  - pip
   - pip:
-      - .
+    - .
