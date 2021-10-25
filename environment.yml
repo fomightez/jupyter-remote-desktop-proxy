@@ -7,7 +7,6 @@ dependencies:
   - websockify
   - pymol>=2.3
   - biopython
-  - csb
   - libglu
   - glew
   - pip
