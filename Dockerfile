@@ -11,7 +11,17 @@ RUN apt-get -y update \
    xfce4-session \
    xfce4-settings \
    xorg \
-   xubuntu-icon-theme
+   xubuntu-icon-theme \
+   build-essential \
+   python3-dev \
+   libglew-dev \
+   libpng-dev \
+   libfreetype6-dev \
+   libxml2-dev \
+   libmsgpack-dev \
+   python3-pyqt5.qtopengl \
+   libglm-dev \
+   libnetcdf-dev \
 
 # Remove light-locker to prevent screen lock
 ARG TURBOVNC_VERSION=2.2.6

@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - schrodinger
+  - defaults
 dependencies:
   - jupyter-server-proxy>=1.4
   - pip
