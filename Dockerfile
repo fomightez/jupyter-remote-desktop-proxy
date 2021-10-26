@@ -12,6 +12,12 @@ RUN apt-get -y update \
    xfce4-settings \
    xorg \
    xubuntu-icon-theme \
+   libgl1-mesa-dev \
+   libegl1-mesa \
+   libglx-mesa0 \
+   libglu1-mesa \
+   libxrandr2 \
+   libxi6 \
    build-essential \
    python3-dev \
    libglew-dev \

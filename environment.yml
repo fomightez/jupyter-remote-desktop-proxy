@@ -1,13 +1,13 @@
 channels:
-  - conda-forge
   - schrodinger
-  - defaults
+  - conda-forge
+  - anaconda
+
 dependencies:
-  - jupyter-server-proxy>=1.4
-  - pip
   - websockify
+  - python
+  - jupyter-server-proxy>=1.4
   - pymol>=2.3
-  - biopython
   - libglu
   - glew
   - pip
