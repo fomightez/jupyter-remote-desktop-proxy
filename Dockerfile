@@ -27,7 +27,7 @@ RUN apt-get -y update \
    libmsgpack-dev \
    python3-pyqt5.qtopengl \
    libglm-dev \
-   libnetcdf-dev \
+   libnetcdf-dev
 
 # Remove light-locker to prevent screen lock
 ARG TURBOVNC_VERSION=2.2.6
