@@ -1,7 +1,11 @@
 # Jupyter Remote Desktop Proxy
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/jupyter-remote-desktop-proxy/HEAD?urlpath=desktop)
 
+------
+
 This is a test of updating https://github.com/fomightez/jupyter-desktop-server based on https://github.com/jupyterhub/jupyter-remote-desktop-proxy, so I can eventually add PyMOL and see if better than https://github.com/fomightez/Jupyter-desktop_with_pymol .
+
+--------------------
 
 Run XFCE (or other desktop environments) on Jupyter.
 
