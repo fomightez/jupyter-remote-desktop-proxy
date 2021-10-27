@@ -1,14 +1,8 @@
 channels:
-  - schrodinger
   - conda-forge
-  - anaconda
 dependencies:
-  - websockify
-  - python
   - jupyter-server-proxy>=1.4
-  - pymol>=2.3
-  - libglu
-  - glew
   - pip
+  - websockify
   - pip:
       - .
