@@ -8,6 +8,6 @@ dependencies:
   - websockify
   - libglu
   - glew
-  - pymol>=2.3
+  - pymol
   - pip:
       - .
