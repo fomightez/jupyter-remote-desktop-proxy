@@ -1,8 +1,11 @@
 channels:
   - conda-forge
+  - anaconda
 dependencies:
   - jupyter-server-proxy>=1.4
   - pip
   - websockify
+  - libglu
+  - glew
   - pip:
       - .
